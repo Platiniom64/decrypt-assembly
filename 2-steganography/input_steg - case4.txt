@@ -1,9 +1,0 @@
-a a a a a a a
-a b a a a a a
-a a c a a a a
-a a a d a a a
-a a a a e a a
-nothing
-nothing
-nothing
-a a a a a a a a yes

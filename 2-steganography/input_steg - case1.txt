@@ -1,7 +1,0 @@
-yes1
-
-
-no no no yes2
-
-no no no no no yes3
-no no no no no no yes4
