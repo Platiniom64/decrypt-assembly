@@ -1,6 +1,7 @@
 # decrypt-assembly
 This is a coursework for University.
 I created decrypt and encrypt tools for different types of encryptions, using the MIPS assembly programming language.
+One can use the MARS IDE to simulate the \*.s files.
 
 In the file 1-find_words, there is a program that can list each word in input_text in order of occurence, one per line.
 
